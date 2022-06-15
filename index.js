@@ -6,5 +6,11 @@ function showBadge(label, value, bgColorLabel, bgColorValue) {
   );
 }
 
-showBadge('Author', 'cc', '#06436f', '#436f06');
-showBadge('Email', '583783099@qq.com', '#e18a3b', '#8a3be1');
+function logAuthorInfo () {
+  showBadge('Author', 'cc', '#06436f', '#436f06');
+  showBadge('Email', '583783099@qq.com', '#e18a3b', '#8a3be1');
+}
+
+export {
+  logAuthorInfo
+}
