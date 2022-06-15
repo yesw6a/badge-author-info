@@ -1,0 +1,15 @@
+{
+  "name": "badge-author-info",
+  "version": "1.0.0",
+  "description": "create badge of author info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "wuhuanda",
+    "email": "583783099@qq.com"
+  },
+  "license": "MIT"
+}
