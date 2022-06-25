@@ -52,3 +52,7 @@ customBadge([
 ## v2.0.1
 
 - Provide more languages `README`.
+
+## v2.0.2
+
+- Fix docs.
