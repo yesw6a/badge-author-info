@@ -1,9 +1,25 @@
-# 生成作者信息的徽章并输出在控制台
+# Print badge in console
+
+[简体中文]('https://github.com/yesw6a/badge-author-info/blob/master/README-zh-CN.md') | English
 
 # Install
 
+## npm
+
 ```bash
 npm i badge-author-info
+```
+
+## yarn
+
+```bash
+yarn add badge-author-info
+```
+
+## pnpm
+
+```bash
+pnpm i badge-author-info
 ```
 
 # Usage
@@ -23,10 +39,16 @@ customBadge([
 
 ## v1.0.3
 
-- 支持直接解构使用打印作者信息。
+- Only print fixed information.
 
 ## v2.0.0
 
-- 使用 `ts` 重构
-- 支持自定义徽章信息
-- 提供默认徽章打印
+- Refactor by typescript.
+- Provide many methods to print badge.
+  - Default badge.
+  - Custom badge.
+  - Default style and custom value.
+
+## v2.0.1
+
+- Provide more languages `README`.
