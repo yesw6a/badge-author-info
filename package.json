@@ -1,16 +1,22 @@
 {
   "name": "badge-author-info",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "create badge of author info",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "yesw6a",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yesw6a/badge-author-info"
+    "url": "git+https://github.com/yesw6a/badge-author-info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yesw6a/badge-author-info/issues"
+  },
+  "homepage": "https://github.com/yesw6a/badge-author-info#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "tslint": "^6.1.3",
+    "typescript": "^4.7.4"
   }
 }
