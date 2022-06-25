@@ -1,6 +1,6 @@
 # 在控制台输出徽章信息
 
-简体中文 | [English](https://github.com/yesw6a/badge-author-info/blob/master/README-EN.md)
+简体中文 | [English](https://github.com/yesw6a/badge-author-info/blob/master/README.md)
 
 # Install
 
