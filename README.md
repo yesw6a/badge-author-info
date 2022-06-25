@@ -1,6 +1,6 @@
 # Print badge in console
 
-[简体中文]('https://github.com/yesw6a/badge-author-info/blob/master/README-zh-CN.md') | English
+[简体中文](https://github.com/yesw6a/badge-author-info/blob/master/README-zh-CN.md) | English
 
 # Install
 
